@@ -9,6 +9,7 @@ html,
 body {
   background-color: #181719;
   width: 100vw;
+  overflow-x: hidden;
 }
 
 .wrapper {
