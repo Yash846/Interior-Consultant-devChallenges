@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](/images/final.png)
+![screenshot](images/final.PNG)
 
 ### Built With
 
