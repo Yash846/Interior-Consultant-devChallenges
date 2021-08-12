@@ -9,6 +9,9 @@ html,
 body {
   background-color: #181719;
   width: 100vw;
+}
+
+.wrapper {
   overflow-x: hidden;
 }
 
@@ -228,8 +231,7 @@ nav {
 }
 
 @media (max-width: 950px) {
-  html,
-  body {
+  .wrapper {
     overflow-x: initial;
   }
   .main-container {
@@ -250,8 +252,7 @@ nav {
 }
 
 @media (max-width: 768px) {
-  html,
-  body {
+  .wrapper {
     overflow-x: hidden;
   }
   .text-left {
