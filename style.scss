@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+html,
 body {
   background-color: #181719;
   width: 100vw;
@@ -185,6 +186,7 @@ nav {
   }
 }
 @media (max-width: 950px) {
+  html,
   body {
     overflow-x: initial;
   }
@@ -204,6 +206,7 @@ nav {
   }
 }
 @media (max-width: 768px) {
+  html,
   body {
     overflow-x: hidden;
   }
